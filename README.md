@@ -33,9 +33,9 @@ The technologies used in this project include:
 
 If you're interested in collaborating, discussing a project, or connecting with me, feel free to reach out.
 
-* **GitHub:** [Your GitHub Profile](https://github.com/pembaGeluSherpa1)
-* **Portfolio:** [Your Portfolio URL](https://pembagelusherpa.com.np)
-* **Email:** [your-email@example.com](mailto:pembagg122@gmail.com)
+* **GitHub:** [pembaGeluSherpa1](https://github.com/pembaGeluSherpa1)
+* **Portfolio:** [pembagelusherpa.com.np](https://pembagelusherpa.com.np)
+* **Email:** [pembagg122@gmail.com](mailto:pembagg122@gmail.com)
 
 ---
 
